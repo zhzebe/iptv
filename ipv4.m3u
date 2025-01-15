@@ -583,3 +583,60 @@ https://feiyang.vip-tptv.xyz/migu/738906889.m3u8?migutoken=112ac4e0bbf782fb86029
 https://feiyang.vip-tptv.xyz/migu/849116810.m3u8?migutoken=307b6210d0328289f6d38402832c3bb4283206fedc87a53c326635be23c1c0e00d71d3fff2438ce13dbcd2a47d245c1784ae349368ccc5663bbb57d44d55cd8fb0f12710803298e6efb770e36c
 #EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="🐉央视卫视⑤💥",海峡卫视
 https://feiyang.vip-tptv.xyz/migu/849119120.m3u8?migutoken=3427e95099c60f8ad6e115b4214cbefbe25d44ac1d50d166993549ec95b8fe7bf534a9fa50aadfbdb9af4375ab9c5f6da3302913b6d92d4ed000dca6d25373dd165f023a28a9838bec813e4944
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1
+https://tvpull.careryun.com/tv/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV2
+https://tvpull.careryun.com/tv/cctv2.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV3
+https://tvpull.careryun.com/tv/cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV4
+https://tvpull.careryun.com/tv/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV5
+https://tvpull.careryun.com/tv/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png",CCTV5+
+https://tvpull.careryun.com/tv/cctv5+.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png",CCTV6
+https://tvpull.careryun.com/tv/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png",CCTV7
+https://tvpull.careryun.com/tv/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png",CCTV8
+https://tvpull.careryun.com/tv/cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png",CCTV9
+https://tvpull.careryun.com/tv/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png",CCTV10
+https://tvpull.careryun.com/tv/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png",CCTV11
+https://tvpull.careryun.com/tv/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png",CCTV12
+https://tvpull.careryun.com/tv/cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png",CCTV13
+https://tvpull.careryun.com/tv/cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png",CCTV14
+https://tvpull.careryun.com/tv/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png",CCTV15
+https://tvpull.careryun.com/tv/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png",CCTV17
+https://tvpull.careryun.com/tv/cctv17.m3u8
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png",CCTV4美洲
+https://tvpull.careryun.com/tv/cctv4m.m3u8
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png",CCTV4欧洲
+https://tvpull.careryun.com/tv/cctv4o.m3u8
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影.png",凤凰电影
+http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
+http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
+http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png",凤凰香港
+http://110.235.24.100:8800/play/a00m
+#EXTINF:-1 tvg-name="STAR1" tvg-logo="https://live.fanmingming.cn/tv/STAR1.png",STAR1
+http://quan2018.mycloudnas.com:51888/play/a00w/index.m3u8
+#EXTINF:-1 tvg-name="STARS" tvg-logo="https://live.fanmingming.cn/tv/STARS.png",STARS
+http://quan2018.mycloudnas.com:51888/play/a00z/index.m3u8
+#EXTINF:-1 tvg-name="STARS2" tvg-logo="https://live.fanmingming.cn/tv/STARS2.png",STARS2
+http://quan2018.mycloudnas.com:51888/play/a00u/index.m3u8
+#EXTINF:-1 tvg-name="TV5" tvg-logo="https://live.fanmingming.cn/tv/TV5.png",TV5
+http://quan2018.mycloudnas.com:51888/play/a014/index.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png",TVB星河
+http://quan2018.mycloudnas.com:51888/play/a00k/index.m3u8
