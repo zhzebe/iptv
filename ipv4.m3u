@@ -1,3 +1,4 @@
+
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="🎉春晚专用🎉",辽宁卫视
 https://bdrmlivezb.lnyun.com.cn/bdrm2/xczb2.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="🎉春晚专用🎉",辽宁卫视
@@ -853,3 +854,29 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
 #EXTINF:-1,tvg-id="大庆教育" tvg-name="大庆教育" tvg-logo="https://epg.112114.xyz/logo/大庆教育.png" group-title="🐉央视卫视-⑥💥",大庆教育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+
+
+
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🐉4K-UHD",CCTV-1 4K
+http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="🐉4K-UHD",CCTV-3 4K
+http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-3-AVS-4K264&ace
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="🐉4K-UHD",CCTV-5 4K
+http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-5-AVS-4K264&ace
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="🐉4K-UHD",CCTV-6 4K
+http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-6-AVS-4K264&ace
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="🐉4K-UHD",CCTV-8 4K
+http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-8-AVS-4K264&ace
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🐉4K-UHD",CCTV-4K 超高清
+http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-4K-HD&ace
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="🐉4K-UHD",CCTV-16 4K
+http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-16-4K&ace
+#EXTINF:-1 tvg-name="南国都市频道" tvg-logo="https://live.fanmingming.com/tv/南国都市频道.png" group-title="🐉4K-UHD",南国都市频道
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="🐉4K-UHD",Love Nature 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-title="🐉4K-UHD",Loupe 4K「视觉」
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="🐉4K-UHD",Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
