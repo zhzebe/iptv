@@ -1,23 +1,24 @@
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml"
 
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="🎉春晚专用🎉",辽宁卫视
-https://bdrmlivezb.lnyun.com.cn/bdrm2/xczb2.m3u8
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="🎉春晚专用🎉",辽宁卫视
-https://newtvsuper.com/NBc0101/S1889/7499
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="🎉春晚专用🎉",山东卫视
-https://newtvsuper.com/NBc0101/S1889/7502
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="🎉春晚专用🎉",广东卫视
-https://newtvsuper.com/NBc0101/S1889/7473
-
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🎉春晚专用🎉",CCTV4K 超高清
+https://d1--cn-gotcha207.bilivideo.com/live-bvc/719178/live_1922214722_bs_4401370_maxhdr/index.m3u8?expires=1738068447&len=0&oi=666697771&pt=web&qn=20000&trid=10073c95e7c37067d1ad6569a4029e6798c3&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha207&sign=a14a83dc753f76d7dce15082e0dafbd2&site=b13ea76c17d879329b86f038fe5ea315&free_type=0&mid=8716155&sche=ban&bvchls=1&trace=64&isp=cm&rg=East&pv=Zhejiang&suffix=maxhdr&p2p_type=1&deploy_env=prod&score=100&origin_bitrate=810125&sl=1&source=puv3_onetier&pp=rtmp&flvsk=9704db541507a3fa27dcd4ff66d3781b&sk=d98dba1d356ecd77f0eeb216fe817a87&info_source=hot_cache&hot_cdn=852356&vd=bc&src=puv3&order=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🎉春晚专用🎉",CCTV-1
-http://z.b.bkpcp.top/m.php?id=cctv1
+https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="🎉春晚专用🎉",CCTV-3
-http://z.b.bkpcp.top/m.php?id=cctv3
+https://www.freetv.top/migu/624878271.m3u8?migutoken=6051cf0f824b7432a7e38cb90b50dbc8d5f9dbc684d357663ae821fb87ae233a45772b235431568e910e14c17b7496429d23d2b4b3501692941d1e6d364b2e35ccf5890eb0c31743c5dffaa2ef$!
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🎉春晚专用🎉",CCTV-4
-http://z.b.bkpcp.top/m.php?id=cctv4
+https://www.freetv.top/migu/631780421.m3u8?migutoken=9c479e166888f001e1fb4ab5502e734251c68075cd89836a715137a1a2a4b18b60e282b0f1a308d6641c282600bd8db3cef99cb15edd0ab61d81c4d76d154bb464e3a02a75b167298c4747ce6f$!
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🎉春晚专用🎉",CCTV-7
-http://z.b.bkpcp.top/m.php?id=cctv7
+https://www.freetv.top/migu/673168121.m3u8?migutoken=3253222269368c440aa1d23dba86c186a7b73abdea3890faf72e3d720844f8f1d3adc2b18ed047dbb3eff1a6c5d9379fad37d1f8a380d0e7c69e9ad6eb41709cf92077125fc0bded4cfd47808b$!
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🎉春晚专用🎉",CCTV-13
-http://z.b.bkpcp.top/m.php?id=cctv13
+https://www.freetv.top/migu/608807423.m3u8?migutoken=b0ebf450385413f8d70e72a92ceba03e41170d59df1374472666311b9a1b26c2665ac29d287ef869f8998593325508eed5b09a4020d14bc557a3fe580eea0c0f4c2c13a4581ddb400575b8d3e9$!
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="🎉春晚专用🎉",CCTV-4K
+http://148.135.93.213:81/live.php?id=CCTV4K-av3a
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="🎉春晚专用🎉",CCTV-16 4K
+http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="🎉春晚专用🎉",CCTV-8K
+http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 
 
 
@@ -856,7 +857,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="🐉4K-UHD",CCTV-4K
+http://148.135.93.213:81/live.php?id=CCTV4K-av3a
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="🐉4K-UHD",CCTV-16 4K
+http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="🐉4K-UHD",CCTV-8K
+http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🐉4K-UHD",CCTV-1 4K
 http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
