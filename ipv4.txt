@@ -217,8 +217,6 @@ CCTV17,http://148.135.93.213:81/live.php?id=CCTV17
 凤凰资讯,http://115.149.139.141:10000/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=0
 大湾区卫视,http://two.loiey.top:58888/migu/608917627.m3u8?migutoken=bec3afc5d246da2ce0b50395b9e7f86cf6effb11a5e03c662dfce8a34cbac53f3adb5a2611f5535fc9c47b60fc16b2954cbd0816fb4da93ee8de57f9f625c12ffd38e57094c4b8f0c02b07c707
 海峡卫视,http://two.loiey.top:58888/migu/849119120.m3u8?migutoken=d3c10b98644b3859940b023437e460be69a759ebb732221c2c403c183bb53e1fd334de5a211b20e6649baf5c7e2ffdc71143e90e116a3b737eeeac28abb22ace5488f74949678a93d771f8297b
-👉此线路需要改UA👈,https://d.kstore.dev/download/7692/6H.mp4
-👉扫码联系客服👈,https://d.kstore.dev/download/7692/6H.mp4
 CCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-HD-265-5M&ace
 CCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
 CCTV2,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-2-HD-265-8M&ace
