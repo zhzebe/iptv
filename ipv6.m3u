@@ -448,10 +448,7 @@ http://two.loiey.top:58888/migu/608917627.m3u8?migutoken=bec3afc5d246da2ce0b5039
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="🐉央视卫视-③💥",海峡卫视
 http://two.loiey.top:58888/migu/849119120.m3u8?migutoken=d3c10b98644b3859940b023437e460be69a759ebb732221c2c403c183bb53e1fd334de5a211b20e6649baf5c7e2ffdc71143e90e116a3b737eeeac28abb22ace5488f74949678a93d771f8297b
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉央视卫视-④💥",👉此线路需要改UA👈
-https://d.kstore.dev/download/7692/6H.mp4
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉央视卫视-④💥",👉扫码联系客服👈
-https://d.kstore.dev/download/7692/6H.mp4
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🐉央视卫视-④💥",CCTV1
 http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-HD-265-5M&ace
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🐉央视卫视-④💥",CCTV1
