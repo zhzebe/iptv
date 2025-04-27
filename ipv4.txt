@@ -5,7 +5,7 @@ CCTV4,http://218.1.217.21:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&aut
 CCTV5,http://218.1.217.21:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://218.1.217.21:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://218.1.217.21:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://218.1.217.21:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://66.siyba.cn/9fTSJ
 CCTV9,http://66.siyba.cn/7EvLp
 CCTV10,http://66.siyba.cn/8p5FA
 CCTV11,http://66.siyba.cn/99ia9
