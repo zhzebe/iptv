@@ -1,4 +1,4 @@
-导视,http://ik.iptv8.net:8888/rtp/225.1.4.194:1244
+
 CCTV-1,http://ik.iptv8.net:8888/rtp/225.1.4.73:1102
 CCTV-2,http://ik.iptv8.net:8888/rtp/225.1.4.74:1103
 CCTV-3,http://ik.iptv8.net:8888/rtp/225.1.4.158:1194
