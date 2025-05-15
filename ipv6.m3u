@@ -4,35 +4,18 @@
 http://66.siyba.cn/7KJGE
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="🌟央视卫视-①🌟",CCTV-2 财经
 http://66.siyba.cn/8vmc7
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="🌟央视卫视-①🌟",CCTV-3 综艺
-http://66.siyba.cn/9fYHA
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="🌟央视卫视-①🌟",CCTV-4 国际
-http://66.siyba.cn/a0bc9
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="🌟央视卫视-①🌟",CCTV-5 体育
-http://66.siyba.cn/aKNG0
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="🌟央视卫视-①🌟",CCTV-5+ 体育赛事
-http://66.siyba.cn/bre2r
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="🌟央视卫视-①🌟",CCTV-6 电影
-http://66.siyba.cn/bvT5A
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="🌟央视卫视-①🌟",CCTV-7 国防军事
-http://66.siyba.cn/cgsZL
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="🌟央视卫视-①🌟",CCTV-8 电视剧
-http://66.siyba.cn/d15ve
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="🌟央视卫视-①🌟",CCTV-9 纪录
-http://66.siyba.cn/707rt
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="🌟央视卫视-①🌟",CCTV-10 科教
-http://66.siyba.cn/7KJGO
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="🌟央视卫视-①🌟",CCTV-11 戏曲
-http://66.siyba.cn/8vmch
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="🌟央视卫视-①🌟",CCTV-12 社会与法
-http://66.siyba.cn/9fYHK
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="🌟央视卫视-①🌟",CCTV-13 新闻
-http://66.siyba.cn/a0baH
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="🌟央视卫视-①🌟",CCTV-14 少儿
-http://66.siyba.cn/aKNGa
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="🌟央视卫视-①🌟",CCTV-15 音乐
-http://66.siyba.cn/bre2B
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="🌟央视卫视-①🌟",CCTV-16 奥林匹克
-http://66.siyba.cn/bvT5K
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="🌟央视卫视-①🌟",CCTV-17 农业农村
-http://66.siyba.cn/cgsZV
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/贵州卫视.png" group-title="🌟央视卫视-①🌟",贵州卫视
+http://66.siyba.cn/aKQRA
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/吉林卫视.png" group-title="🌟央视卫视-①🌟",吉林卫视
+http://66.siyba.cn/breCJ
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/四川卫视.png" group-title="🌟央视卫视-①🌟",四川卫视
+http://66.siyba.cn/cgwbl
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/海南卫视.png" group-title="🌟央视卫视-①🌟",海南卫视
+http://66.siyba.cn/70alj
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/河南卫视.png" group-title="🌟央视卫视-①🌟",河南卫视
+http://66.siyba.cn/7KMQM
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/广西卫视.png" group-title="🌟央视卫视-①🌟",广西卫视
+http://66.siyba.cn/8vpmf
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/山西卫视.png" group-title="🌟央视卫视-①🌟",山西卫视
+http://66.siyba.cn/9fBQO
