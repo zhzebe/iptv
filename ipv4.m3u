@@ -233,10 +233,6 @@ http://218.1.217.21:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="央视卫视-③",💎此分类需要等待加载完成💎
-http://66.siyba.cn/7KJGE
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="央视卫视-③",💎此分类需要等待加载完成💎
-http://66.siyba.cn/7KJGE
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视卫视-③",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视卫视-③",CCTV2
