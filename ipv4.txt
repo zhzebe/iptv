@@ -52,8 +52,7 @@ CCTV17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpS
 甘肃卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=
 安多卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-MY: CCTV4,http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856857
+
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
