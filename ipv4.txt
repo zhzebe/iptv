@@ -1,4 +1,4 @@
-🌟央视卫视-①🌟,#genre#
+#genre#
 CCTV1,http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
 CCTV2,http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
 CCTV3,http://39.134.64.87:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=
@@ -53,7 +53,44 @@ CCTV17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpS
 安多卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-MY: CCTV4,http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856857
+CCTV1,http://115.190.105.236:8123/live/cctv1?token=OK
+CCTV2,http://115.190.105.236:8123/live/cctv2?token=OK
+CCTV3,http://115.190.105.236:8123/live/cctv3?token=OK
+CCTV4,http://115.190.105.236:8123/live/cctv4?token=OK
+CCTV5,http://115.190.105.236:8123/live/cctv5?token=OK
+CCTV5+,http://115.190.105.236:8123/live/cctv5p?token=OK
+CCTV6,http://115.190.105.236:8123/live/cctv6?token=OK
+CCTV7,http://115.190.105.236:8123/live/cctv7?token=OK
+CCTV8,http://115.190.105.236:8123/live/cctv8?token=OK
+CCTV9,http://115.190.105.236:8123/live/cctv9?token=OK
+CCTV10,http://115.190.105.236:8123/live/cctv10?token=OK
+CCTV11,http://115.190.105.236:8123/live/cctv11?token=OK
+CCTV12,http://115.190.105.236:8123/live/cctv12?token=OK
+CCTV13,http://115.190.105.236:8123/live/cctv13?token=OK
+CCTV14,http://115.190.105.236:8123/live/cctv14?token=OK
+CCTV15,http://115.190.105.236:8123/live/cctv15?token=OK
+CCTV16,http://115.190.105.236:8123/live/cctv16?token=OK
+CCTV17,http://115.190.105.236:8123/live/cctv17?token=OK
+北京卫视,http://115.190.105.236:8123/live/北京卫视?token=OK
+东方卫视,http://115.190.105.236:8123/live/东方卫视?token=OK
+湖南卫视,http://115.190.105.236:8123/live/湖南卫视?token=OK
+江苏卫视,http://115.190.105.236:8123/live/江苏卫视?token=OK
+浙江卫视,http://115.190.105.236:8123/live/浙江卫视?token=OK
+凤凰资讯,http://115.190.105.236:8123/phoenix/fhzx.flv?token=OK
+凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=OK
+凤凰香港,http://115.190.105.236:8123/phoenix/fhhk.flv?token=OK
+ 广东卫视,https://my5353.com/vX27V
+ 江西卫视,https://my5353.com/BJ4J1
+ 河南卫视,https://my5353.com/Tqdmb
+ 陕西卫视,https://my5353.com/w83bM
+ 大湾区卫视,https://my5353.com/9h67m
+ 湖北卫视,https://my5353.com/4Utat
+ 吉林卫视,https://my5353.com/LTcMP
+ 青海卫视,https://my5353.com/iuSuy
+ 东南卫视,https://my5353.com/ELYLj
+ 海南卫视,https://my5353.com/bf1Hc
+ 海峡卫视,https://my5353.com/Amgfi
+ 上海新闻综合,https://my5353.com/O8JTu
  CCTV-1 综合,https://bit.ly/Cctv-1
  CCTV-2 财经,https://bit.ly/Ccctv-2
  CCTV-3 综艺,https://bit.ly/Cctv-3
@@ -204,7 +241,7 @@ CCTV17,http://xg.52sw.top/play/kzb/play.php?id=CCTV-17
 内蒙古卫视,http://xg.52sw.top/play/kzb/play.php?id=nmgws
 西藏卫视,http://xg.52sw.top/play/kzb/play.php?id=xzws
 云南卫视,http://xg.52sw.top/play/kzb/play.php?id=ynws
-北京卫视,https://my5353.com/Q7WTG
+北京卫视,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 北京卫视,https://cc05.tv12.xyz/163.m3u8
 北京卫视,https://cc05.tv12.xyz/155.m3u8
 东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
