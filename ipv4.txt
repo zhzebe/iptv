@@ -1,4 +1,5 @@
 #genre#
+CCTV1,https://migu.188766.xyz/?migutoken=3b17e607874e72a1064612bb642912f3&id=CCTV1&type=yy
 CCTV2,https://migu.188766.xyz/?migutoken=d4babe6486fd29761e423fcccff3bdfd&id=CCTV2&type=yy
 CCTV3,https://migu.188766.xyz/?migutoken=1880d4566905ead09f480144dc5f729c&id=CCTV3&type=yy
 CCTV4,https://migu.188766.xyz/?migutoken=9d62fc3fc9214358c850fdc2a51ef560&id=CCTV4&type=yy
