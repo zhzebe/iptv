@@ -332,6 +332,14 @@ CCTV16,http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226120/1.m3u8
 厦门卫视,http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226008/1.m3u8
 兵团卫视,http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226111/1.m3u8
 康巴卫视,http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221225773/1.m3u8
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV13,https://cdn3.163189.xyz/163189/cctv13
+星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+深圳卫视,https://cdn3.163189.xyz/163189/szws4k
+订阅问客服,https://jzb.wwkejishe.top/?id=578
+订阅问客服,https://jzb.wwkejishe.top/?id=578
 CCTV1,https://jzb.wwkejishe.top/?id=578
 CCTV2,https://jzb.wwkejishe.top/?id=579
 CCTV3,https://jzb.wwkejishe.top/?id=580
@@ -377,6 +385,8 @@ CCTV17,https://jzb.wwkejishe.top/?id=594
 河北卫视,https://jzb.wwkejishe.top/?id=615
 河南卫视,https://jzb.wwkejishe.top/?id=616
 海南卫视,https://jzb.wwkejishe.top/?id=600
+订阅问客服,http://go.bkpcp.top/mg/cctv1
+订阅问客服,http://go.bkpcp.top/mg/cctv1
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -502,3 +512,21 @@ CHC影迷电影,http://148.135.93.213/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5
 东方卫视,http://101.35.240.114:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K
 广东卫视,http://101.35.240.114:88/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K
 四川卫视,http://101.35.240.114:88/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K
+深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
+北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+广东卫视,http://106.53.99.30/tv/api.php?id=gdws
+河北 4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+莲花卫视,http://fenghuang.tv12.xyz/187.m3u8
+莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+东森亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8#https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv#rtmp://pull-hsbj.vzan.com/v/slowlive_821481626725612419
+人间卫视,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live008/index.m3u8?proxy=true
+星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
+莲花卫视,http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
+北京卫视,http://b.tvbox6.icu/php/beijing/bjzb.php?id=bjws
+大湾区卫视,http://go.bkpcp.top/mg/gddwq
+大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
+辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
+辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
