@@ -269,7 +269,6 @@ http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226150/1.m3u8
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226147/1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://kakaxi-1.asia/LOGO/CCTV16.png" group-title="V6网络专用",CCTV16
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226120/1.m3u8
-
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="央卫频道A",湖南卫视
 https://migu.188766.xyz/?migutoken=31694ddc88bc7e943ccbc8ec62c6ff59&id=hnws&type=sz
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="央卫频道A",浙江卫视
@@ -988,23 +987,4 @@ http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226008/1.m3u8
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226111/1.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://kakaxi-1.asia/LOGO/康巴卫视.png" group-title="V6网络专用",康巴卫视
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221225773/1.m3u8
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K-频道",北京卫视4K
-http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K-频道",深圳卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K-频道",江苏卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K-频道",浙江卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K-频道",湖南卫视4K
-https://my5353.com/YzLE0P
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K-频道",湖南卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K-频道",山东卫视4K
-http://101.35.240.114:88/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" http-user-agent="aliplayer" group-title="4K-频道",东方卫视4K
-http://101.35.240.114:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="aliplayer" group-title="4K-频道",广东卫视4K
-http://101.35.240.114:88/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" http-user-agent="aliplayer" http-referer="https://api.chinaaudiovisual.cn/" group-title="4K-频道",四川卫视4K
-http://101.35.240.114:88/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K
+
